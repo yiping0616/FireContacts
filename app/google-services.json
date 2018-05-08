@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1064152304405",
+    "firebase_url": "https://contact-a3590.firebaseio.com",
+    "project_id": "contact-a3590",
+    "storage_bucket": "contact-a3590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064152304405:android:6ddeaa5e28b0d9b7",
+        "android_client_info": {
+          "package_name": "com.example.mom.firecontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064152304405-s7chc4mta9kaffs0afdum35je827060p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mom.firecontacts",
+            "certificate_hash": "c3308e10a233cbae7b640bb4526c2905084a0931"
+          }
+        },
+        {
+          "client_id": "1064152304405-j506qjsrrr4qdvkvcdcupmlt6eh254m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGJoEeVDGLxfCptVD11BWgUTfMo7FwFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064152304405-j506qjsrrr4qdvkvcdcupmlt6eh254m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
